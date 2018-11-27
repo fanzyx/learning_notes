@@ -1,4 +1,4 @@
-# :star2:  公众号：泛知亦学
+# :star2:  Project Introduction
 
 
 # :clap:  开发工具
