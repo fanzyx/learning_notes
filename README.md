@@ -8,10 +8,6 @@
 - JavaScript
 - Bootstrap
 
-HTML|CSS|JavaScript|Bootstrap
---|--|--|--
-HTML|CSS|JavaScript|Bootstrap
-
 
 # :hotsprings: Java基础
 - 基础语法
@@ -21,10 +17,6 @@ HTML|CSS|JavaScript|Bootstrap
 - 多线程
 - 网络编程
 - IO流
-
-基础语法|面向对象|集合|异常|多线程|网络编程|IO
---|--|--|--|--|--|--
-基础语法|面向对象|集合|异常|多线程|网络编程|IO
 
 
 # :briefcase: Framework
@@ -47,7 +39,5 @@ HTML|CSS|JavaScript|Bootstrap
 - VisualStudio
 - Eclipse
 
-VisualStudio|Eclipse
---|--
-VisualStudio|Eclipse
+
 
