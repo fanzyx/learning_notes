@@ -4,8 +4,8 @@
 
 
 # :hotsprings: Java基础
-- [Spring](http://www.baidu.com)
-- [Mybatis](http://www.baidu.com)
+- [Spring](https://github.com/wyd288/fan1111/blob/master/src/Spring.md)
+- [Mybatis](https://github.com/wyd288/fan1111/blob/master/src/Mybatis.md)
 
 # :computer: JavaWeb
 
