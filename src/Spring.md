@@ -11,7 +11,6 @@
     - DI将组件关系透明化，降低了耦合度
     - AOP允许将通用任务进行集中处理
     - 能够良好的与第三方框架整合
-![Spring特性](6031360EF97A47D0A590F29A236E2E66)
 
 4. 常用注解
 > 在xml中加入<context:component-scan base-package="com.xxxx.service,com.xxxx.dao"/>启动注解扫描；
@@ -38,8 +37,6 @@
 
 ### 【IOC(Inversion of Control)控制反转】
 > 解耦合，将组件对象的控制权从代码本身转移到外部容器，使用接口分离关注点，不再关注实现，实现每个组件时，只关注组件内部的业务。
-
-![IOC](00524BF1C8824D2EA77610CEE0EF159E)
 
 1. 设值注入
 >  IoC容器通过成员变量的setter方法来注入被依赖对象
