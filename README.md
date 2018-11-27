@@ -3,10 +3,10 @@
 
 
 # :tv: 前端学习
-1. HTML
-2. CSS
-3. JavaScript
-4. Bootstrap
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
 
 HTML|CSS|JavaScript|Bootstrap
 --|--|--|--
@@ -44,6 +44,8 @@ HTML|CSS|JavaScript|Bootstrap
 
 # :clap: 开发工具
 [【工具下载】](http://www.baidu.com)
+- VisualStudio
+- Eclipse
 
 VisualStudio|Eclipse
 --|--
