@@ -17,12 +17,12 @@ content1|content2
 
 
 # :bar_chart: 数据库
-- *基础知识*
+- **基础知识**
   - [基础知识](https://github.com/wyd288/fan1111/blob/master/src/database%E6%95%B0%E6%8D%AE%E5%BA%93.md)
-- *关系型数据库*
+- **关系型数据库**
   - MySQL
   - ORACLE
-- *非关系型数据库*
+- **非关系型数据库**
   - Redis
 
 # :tv: 前端学习
