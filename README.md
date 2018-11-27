@@ -36,7 +36,7 @@ HTML|CSS|JavaScript|Bootstrap
 - **基础知识**
   - [基础知识](https://github.com/wyd288/fan1111/blob/master/src/DataBase.md)
 - **关系型数据库**
-  - MySQL
+  - [MySQL](https://github.com/wyd288/fan1111/blob/master/src/MySQL.md)
   - ORACLE
 - **非关系型数据库**
   - Redis
