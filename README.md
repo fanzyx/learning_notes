@@ -1,5 +1,6 @@
 # :star2: 引言
-> 勤思、体悟、总结、分享
+> <p>:blush:There's no one that can influence the way you live your life. Sometimes, we just need a bit more confidence to stick with our choices.-----没有人可以左右你的人生，只是很多时候我们需要多一些勇气，去坚定自己的选择。 </p>
+<p><strong>勤思、体悟、总结、分享</strong>——<i>By 爱转圈</i></p> 
 
 
 # :tv: 前端学习
