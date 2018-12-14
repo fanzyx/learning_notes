@@ -39,6 +39,7 @@
 [【工具下载】](http://www.baidu.com)
 - VisualStudio
 - Eclipse
+- IDEA
 
 
 
