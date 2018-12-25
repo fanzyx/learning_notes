@@ -58,7 +58,6 @@ public class Children extends Test1 {
 > <p style="color:blue">只有常量和抽象方法</p>
 > <p style="color:blue">不能被实例化</p>
 > <p style="color:blue">实现了接口的类，必须实现该接口的所有方法</p>
-> <p style="color:blue">只有常量和抽象方法</p>
 
 ```java
 /**
