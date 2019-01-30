@@ -6,10 +6,12 @@
 # :tv: 前端学习
 - HTML
 	- [HTML—01.标签与表单](https://github.com/wyd288/fan1111/blob/master/src/HTML/HTML%E2%80%9401.%E6%A0%87%E7%AD%BE%E4%B8%8E%E8%A1%A8%E5%8D%95.md)
+
 - CSS
 	- [CSS—01.概念&选择器](https://github.com/wyd288/fan1111/blob/master/src/CSS/CSS%E2%80%9401.%E6%A6%82%E5%BF%B5%26%E9%80%89%E6%8B%A9%E5%99%A8.md)
 	- [CSS—02.文本&背景](https://github.com/wyd288/fan1111/blob/master/src/CSS/CSS%E2%80%9402.%E6%96%87%E6%9C%AC%26%E8%83%8C%E6%99%AF.md)
 	- [CSS—03.浮动&定位](https://github.com/wyd288/fan1111/blob/master/src/CSS/CSS%E2%80%9403.%E6%B5%AE%E5%8A%A8%26%E5%AE%9A%E4%BD%8D.md)
+
 - JavaScript
 
 
@@ -40,7 +42,7 @@
 
 
 # :bar_chart: 数据库
-- **基础知识**
+- 基础知识
   - [数据库—基础知识及常用命令](https://github.com/wyd288/fan1111/blob/master/src/%E6%95%B0%E6%8D%AE%E5%BA%93/%E6%95%B0%E6%8D%AE%E5%BA%93%E2%80%94%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%8F%8A%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
 
 - MYSQL
