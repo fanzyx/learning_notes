@@ -38,7 +38,7 @@
 
 # :briefcase: 框架
 - [Spring](https://blog.csdn.net/wyd288/article/details/84305345)
-- [Mybatis](https://github.com/wyd288/fan1111/blob/master/src/Mybatis.md)
+- [Mybatis—基础&动态SQL](https://github.com/wyd288/fan1111/blob/master/src/Mybatis/Mybatis%E2%80%94%E5%9F%BA%E7%A1%80%26%E5%8A%A8%E6%80%81SQL.md)
 
 
 # :bar_chart: 数据库
