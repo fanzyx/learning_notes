@@ -1,6 +1,6 @@
 # :star2: 引言
 > <p>:blush:There's no one that can influence the way you live your life. Sometimes, we just need a bit more confidence to stick with our choices.-----没有人可以左右你的人生，只是很多时候我们需要多一些勇气，去坚定自己的选择。 </p>
-<p><strong>勤思、体悟、总结、分享</strong>——<i>By 爱转圈</i></p> 
+<p><strong>勤思、体悟、总结、分享</strong>——<i>By 九锋</i></p> 
 
 
 # :tv: 前端学习
@@ -37,7 +37,7 @@
 
 
 # :briefcase: 框架
-- [Spring](https://blog.csdn.net/wyd288/article/details/84305345)
+- [Spring—IOC&AOP特性](https://github.com/wyd288/fan1111/blob/master/src/Spring/Spring%E2%80%94IOC%26AOP%E7%89%B9%E6%80%A7.md)
 - [Mybatis—基础&动态SQL](https://github.com/wyd288/fan1111/blob/master/src/Mybatis/Mybatis%E2%80%94%E5%9F%BA%E7%A1%80%26%E5%8A%A8%E6%80%81SQL.md)
 
 
