@@ -12,11 +12,6 @@
 	- [CSS—02.文本&背景](https://github.com/wyd288/fan1111/blob/master/src/CSS/CSS%E2%80%9402.%E6%96%87%E6%9C%AC%26%E8%83%8C%E6%99%AF.md)
 	- [CSS—03.浮动&定位](https://github.com/wyd288/fan1111/blob/master/src/CSS/CSS%E2%80%9403.%E6%B5%AE%E5%8A%A8%26%E5%AE%9A%E4%BD%8D.md)
 
-- JavaScript
-
-
-- Bootstrap
-
 
 # :hotsprings: Java基础
 - [JAVA基础—01.数据类型&变量](https://github.com/wyd288/fan1111/blob/master/src/JAVA%E5%9F%BA%E7%A1%80/JAVA%E5%9F%BA%E7%A1%80%E2%80%9401.%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%26%E5%8F%98%E9%87%8F.md)
@@ -42,22 +37,14 @@
 
 
 # :bar_chart: 数据库
-- 基础知识
-  - [数据库—基础知识及常用命令](https://github.com/wyd288/fan1111/blob/master/src/%E6%95%B0%E6%8D%AE%E5%BA%93/%E6%95%B0%E6%8D%AE%E5%BA%93%E2%80%94%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%8F%8A%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
 
-- MYSQL
-	- [MySQL—简介及其存储引擎、函数和常用命令](https://github.com/wyd288/fan1111/blob/master/src/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL%E2%80%94%E7%AE%80%E4%BB%8B%E5%8F%8A%E5%85%B6%E5%AD%98%E5%82%A8%E5%BC%95%E6%93%8E%E3%80%81%E5%87%BD%E6%95%B0%E5%92%8C%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
+- [数据库—基础知识及常用命令](https://github.com/wyd288/fan1111/blob/master/src/%E6%95%B0%E6%8D%AE%E5%BA%93/%E6%95%B0%E6%8D%AE%E5%BA%93%E2%80%94%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%8F%8A%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
 
-- ORACLE
-
-- Redis
+- [MySQL—简介及其存储引擎、函数和常用命令](https://github.com/wyd288/fan1111/blob/master/src/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL%E2%80%94%E7%AE%80%E4%BB%8B%E5%8F%8A%E5%85%B6%E5%AD%98%E5%82%A8%E5%BC%95%E6%93%8E%E3%80%81%E5%87%BD%E6%95%B0%E5%92%8C%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
 
 
 # :clap: 开发工具
 
-- VisualStudio
-- Eclipse
-- IDEA
 
 
 
