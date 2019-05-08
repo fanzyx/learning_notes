@@ -51,7 +51,7 @@
 
 # CSS选择器
 
-![CSS选择器](https://github.com/wyd288/fan1111/blob/master/src/images/CSS%E7%AC%94%E8%AE%B0/CSS%E2%80%941.%E6%A6%82%E5%BF%B5&%E9%80%89%E6%8B%A9%E5%99%A8-%E9%80%89%E6%8B%A9%E5%99%A8.png?raw=true)
+![CSS选择器](https://github.com/wyd288/learning_notes/blob/master/repo-image/CSS/%E9%80%89%E6%8B%A9%E5%99%A8.png?raw=true)
 
 > <p style="font-size:18px">基本选择器</p>
 

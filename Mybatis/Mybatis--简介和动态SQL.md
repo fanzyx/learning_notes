@@ -125,7 +125,7 @@ PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
 ```
 
 ##### 3.常用全局配置属性（settings元素）
-![settings常用全局配置](https://github.com/wyd288/fan1111/blob/master/src/images/MyBatis%E7%AC%94%E8%AE%B0/Mybatis%E2%80%94%E4%BD%BF%E7%94%A8&%E5%8A%A8%E6%80%81SQL-settings%E5%B8%B8%E7%94%A8%E5%85%A8%E5%B1%80%E9%85%8D%E7%BD%AE.png?raw=true)
+![settings常用全局配置](https://github.com/wyd288/learning_notes/blob/master/repo-image/MyBatis/settings%E5%B8%B8%E7%94%A8%E5%85%A8%E5%B1%80%E9%85%8D%E7%BD%AE.png?raw=true)
 
 
 
@@ -167,7 +167,7 @@ PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
     <!-- 参数传递使用#{参数名/Map的key/注解名} -->
 	<select id="userRole" resultMap="userRole" parameterType="Map">
 		select u.*,r.RoleName from table_user u,table_role r 
-		WHERE u.userRole = r.id and u.userRole = #{userRole} and u.userName LIKE 		CONCAT('%',#{userName},'%')
+		WHERE u.userRole = r.id and u.userRole = #{userRole} and u.userName LIKE CONCAT('%',#{userName},'%')
 	</select>
 	<!-- 添加用户的SQL映射 -->
 	<insert id="addUser" parameterType="User">
