@@ -16,7 +16,7 @@
 **下图为模式中接口与各类型之间的关系。**
 
 
-![类层次结构](https://github.com/wyd288/learning_notes/blob/master/repo-image/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%BB%84%E5%90%88%E6%A8%A1%E5%BC%8F/1.%E7%BB%84%E5%90%88%E6%A8%A1%E5%BC%8F%E7%B1%BB%E5%B1%82%E6%AC%A1%E7%BB%93%E6%9E%84%E5%9B%BE.png?raw=true)
+![类层次结构](https://github.com/wyd288/learning_notes/blob/master/repo-image/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E8%A3%85%E9%A5%B0%E5%99%A8%E6%A8%A1%E5%BC%8F/1.%E8%A3%85%E9%A5%B0%E5%99%A8%E6%A8%A1%E5%BC%8F%E7%B1%BB%E7%BB%93%E6%9E%84%E5%9B%BE.png?raw=true)
 
 
 **代码实现如下：**
